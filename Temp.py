@@ -44,7 +44,7 @@ sir = '\033[41m\x1b[1;97m'
 #━━━━━━━━[ BYPASS USER ]━━━━━━━━#
 wak='/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/'
 #if not 'print' in open(wak+'sessions.py','r').read():
-    pass
+  #  pass
 else:
     exit('\x1b[38;5;46mBēśyāra chēlē mēthaḍa kyāpacāra karabā tumi tōmāra mārē kuttā diẏē cōdai')
 fu='/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/'
